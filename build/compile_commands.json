@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/swedish/cpp-json-experience/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/CppJsonExperience.dir/main.cpp.o -c /home/swedish/cpp-json-experience/main.cpp",
+  "file": "/home/swedish/cpp-json-experience/main.cpp",
+  "output": "CMakeFiles/CppJsonExperience.dir/main.cpp.o"
+}
+]

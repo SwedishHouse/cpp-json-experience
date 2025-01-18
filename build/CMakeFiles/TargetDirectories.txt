@@ -1,0 +1,3 @@
+/home/swedish/cpp-json-experience/build/CMakeFiles/CppJsonExperience.dir
+/home/swedish/cpp-json-experience/build/CMakeFiles/edit_cache.dir
+/home/swedish/cpp-json-experience/build/CMakeFiles/rebuild_cache.dir
